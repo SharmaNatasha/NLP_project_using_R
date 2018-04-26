@@ -12,10 +12,10 @@ Analysis Summary -
 1) App is becoming more popular with new version release as more people are using it.
 2) Average rating of the app has decreased.
 3) Negative Feedback Drivers:
-		 continuous advertisement
-		 video buffering time
-     Screen freeze
-     poor performance
+     1) continuous advertisement
+     2) video buffering time
+     3) Screen freeze
+     4) poor performance
 4) Customers have also given feedback by comparing the app with other similar available apps.
 
 
